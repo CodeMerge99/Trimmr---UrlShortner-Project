@@ -2,7 +2,7 @@ import React from 'react'
 
 const Auth = () => {
   return (
-    <div>A</div>
+    <div>Auth Page</div>
   )
 }
 
